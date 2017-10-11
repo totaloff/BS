@@ -1,0 +1,42 @@
+Fast Secure Contact Form:
+	Display: echo FSCF_Display::process_short_code( array('form' => self::$current_form ) );  //self::$current_form = (int) Form Number/ID
+
+	List:	$options = get_option( 'fs_contact_global' ); $forms = $options['form_list'];
+
+
+------
+
+
+Contact Form 7:
+	Display: 
+
+		$wpcf7_contact_form = wpcf7_contact_form( $id );
+		$unit_tag = 'wpcf7-f' . $wpcf7_contact_form->id . '-' . $processing_within . '-o' . $unit_count;
+		$wpcf7_contact_form->unit_tag = $unit_tag;
+
+		$form = $wpcf7_contact_form->form_html();
+
+
+	List:	$list_table = new WPCF7_Contact_Form_List_Table(); $list_table->prepare_items(); $list_table->items; // admin.php:252; "items" as $post Object.
+
+
+--------
+
+
+cforms:
+	Display:	insert_cform($formNumber); // cforms.php:1241
+	
+	List:	
+	
+		$cformsSettings = get_option('cforms_settings');
+		$FORMCOUNT=$cformsSettings['global']['cforms_formcount'];
+		
+		$formlistbox = ' <select id="pickform" name="pickform">';
+		for ($i=1; $i<=$FORMCOUNT; $i++){
+			$j   = ( $i > 1 )?$i:'';
+			$sel = ($noDISP==$i)?' selected="selected"':'';
+			$formlistbox .= '<option value="'.$i.'" '.$sel.'>'.stripslashes($cformsSettings['form'.$j]['cforms'.$j.'_fname']).'</option>';
+		}
+		$formlistbox .= '</select>';
+		
+		

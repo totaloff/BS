@@ -1,0 +1,86 @@
+.admin-color-fresh #redux-header {
+    background: #fff;
+    border-color: #54BEDE;
+}
+
+#redux-header h2 {
+    color: #444;
+}
+
+.redux-main .form-table tr {
+    border-bottom: 1px solid #eee;
+}
+
+.redux-main {
+    background: #fff;
+    margin-left: 201px;
+    border-left: 1px solid #eee;
+    padding: 15px 25px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.redux-container .redux-group-tab h3 {
+    margin-top: 0;
+    line-height: 2em;
+    border-bottom: 1px solid #eee;
+}
+
+.redux-sidebar {
+    width: 202px;
+    float: left;
+    background: #fff;
+    border-right: 1px solid #eee;
+}
+
+.redux-sidebar .redux-group-menu li a:hover {
+    background: #fafafa;
+    color: #222;
+    opacity: 1;
+}
+
+.redux-sidebar .redux-group-menu li.active a, .redux-sidebar .redux-group-menu li.activeChild a {
+    background: #fafafa;
+    opacity: 1;
+}
+
+.redux-sidebar .redux-group-menu li a {
+    display: block;
+    padding: 15px 5px 15px 15px;
+    background: #e0e0e0;
+    background: 0 0;
+    border-width: 1px 0;
+    border-style: solid;
+    border-bottom-color: #E7E7E7;
+    border-top-color: #F9F9F9;
+    opacity: .7;
+    color: #444;
+    font-weight: 700;
+    text-decoration: none;
+    -webkit-transition: none;
+    transition: none;
+}
+
+.redux-notice-field {
+    background-color: #fafafa;
+}
+
+.display_header a {
+    text-decoration: none;
+    color: #BBB;
+}
+
+.display_header a:hover {
+    color: #54BEDE;
+}
+
+.redux-container-dimensions .add-on {
+    height: 20px;
+}
+.redux-container-dimensions .add-on i {
+    height: 20px;
+    line-height: 20px;
+}
+
+#redux-header .rAds {display: none !important}

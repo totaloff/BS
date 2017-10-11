@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Feedback v3.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-04 10:32:25+0000\n"
+"Last-Translator: manchumahara <sabuj@codeboxr.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:300
+#@ wpfixedverticalfeedbackbutton
+msgid "Visibility"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:339
+#@ wpfixedverticalfeedbackbutton
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:344
+#@ wpfixedverticalfeedbackbutton
+msgid "Background color of feedback button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:353
+#@ wpfixedverticalfeedbackbutton
+msgid "Background color of feedback button when mouse hover"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:362
+#@ wpfixedverticalfeedbackbutton
+msgid "Contact"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:364
+#@ wpfixedverticalfeedbackbutton
+msgid "be social. share!"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:366
+#@ wpfixedverticalfeedbackbutton
+msgid "CALL BACK"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:368
+#@ wpfixedverticalfeedbackbutton
+msgid "call back"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:370
+#@ wpfixedverticalfeedbackbutton
+msgid "care for share?"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:372
+#@ wpfixedverticalfeedbackbutton
+msgid "COMENTARIOS-FEEDBACK"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:374
+#@ wpfixedverticalfeedbackbutton
+msgid "COMENTARIOS"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:376
+#@ wpfixedverticalfeedbackbutton
+msgid "CONTACT"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:378
+#@ wpfixedverticalfeedbackbutton
+msgid "CONTACT US"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:380
+#@ wpfixedverticalfeedbackbutton
+msgid "Contact Us"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:382
+#@ wpfixedverticalfeedbackbutton
+msgid "FEEDBACK"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:384
+#@ wpfixedverticalfeedbackbutton
+msgid "Feedback"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:388
+#@ wpfixedverticalfeedbackbutton
+msgid "REQUEST A CALL BACK"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:390
+#@ wpfixedverticalfeedbackbutton
+msgid "Request a call back"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:392
+#@ wpfixedverticalfeedbackbutton
+msgid "Custom Image..."
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:394
+#@ wpfixedverticalfeedbackbutton
+msgid "Custom Text..."
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:408
+#@ wpfixedverticalfeedbackbutton
+msgid "Select your button text. For customized text image put your image url and image height."
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:420
+#@ wpfixedverticalfeedbackbutton
+msgid "Link Button to Post/Page (ID)"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:424
+#@ wpfixedverticalfeedbackbutton
+msgid "Put post or page id that you want to link as feedback or contact page, normally you should put page id"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:433
+#@ wpfixedverticalfeedbackbutton
+msgid "To use custom link leave the post/page id blank"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:453
+#@ wpfixedverticalfeedbackbutton
+msgid "Open in new tab"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:457
+#@ wpfixedverticalfeedbackbutton
+msgid "Open in same tab"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:459
+#@ wpfixedverticalfeedbackbutton
+msgid "Control openning link in same window or new tab."
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:568
+#@ wpfixedverticalfeedbackbutton
+msgid "Support"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:109
+#@ wpfixedverticalfeedbackbutton
+msgid "Feedback Button Parameters"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:199
+#@ wpfixedverticalfeedbackbutton
+msgctxt "Post Type General Name"
+msgid "Feedback Button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:200
+#@ wpfixedverticalfeedbackbutton
+msgctxt "Post Type Singular Name"
+msgid "Feedback Button"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:201
+#: wpfixedverticalfeedbackbutton.php:0
+#@ wpfixedverticalfeedbackbutton
+msgid "CBX Feedback"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:202
+#@ wpfixedverticalfeedbackbutton
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:203
+#@ wpfixedverticalfeedbackbutton
+msgid "All Buttons"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:204
+#@ wpfixedverticalfeedbackbutton
+msgid "View Button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:205
+#@ wpfixedverticalfeedbackbutton
+msgid "Add New Feedback Button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:206
+#@ wpfixedverticalfeedbackbutton
+msgid "Add New"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:207
+#@ wpfixedverticalfeedbackbutton
+msgid "Edit Button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:208
+#@ wpfixedverticalfeedbackbutton
+msgid "Update Button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:209
+#@ wpfixedverticalfeedbackbutton
+msgid "Search Feedback Button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:210
+#@ wpfixedverticalfeedbackbutton
+msgid "Not found"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:211
+#@ wpfixedverticalfeedbackbutton
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:214
+#@ wpfixedverticalfeedbackbutton
+msgid "Feedback Button"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:215
+#@ wpfixedverticalfeedbackbutton
+msgid "Feedback Buttons"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:313
+#@ wpfixedverticalfeedbackbutton
+msgid "Post the post IDs here to show/hide for particular pages/posts. Comma(,) separated list. Leave the list blank for no filter."
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:321
+#@ wpfixedverticalfeedbackbutton
+msgid "Horizontal Position"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:326
+#@ wpfixedverticalfeedbackbutton
+msgid "Horizaontal position as percentage, don't put %, just put something like 50 0r 60, 0 is taken as left, 100 is taken as right, rest position is calculated as percentage."
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:330
+#@ wpfixedverticalfeedbackbutton
+msgid "Vertical Position"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:335
+#@ wpfixedverticalfeedbackbutton
+msgid "Vertical position as percentage, don't put %, just put something like 50 0r 60, 0 is taken as top left/right, 100 is taken as bottom left/right, rest position is calculated as percentage."
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:348
+#@ wpfixedverticalfeedbackbutton
+msgid "Background Color for mouse hover"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:357
+#@ wpfixedverticalfeedbackbutton
+msgid "Button Text"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:386
+#@ wpfixedverticalfeedbackbutton
+msgid "feedback"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:399
+#@ wpfixedverticalfeedbackbutton
+msgid "Image URL:"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:400
+#@ default
+msgid "Click to upload"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:403
+#@ wpfixedverticalfeedbackbutton
+msgid "Image height:"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:412
+#@ wpfixedverticalfeedbackbutton
+msgid "Custom text:"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:428
+#@ wpfixedverticalfeedbackbutton
+msgid "Custom Link"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:437
+#@ wpfixedverticalfeedbackbutton
+msgid "Custom Title"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:441
+#@ wpfixedverticalfeedbackbutton
+msgid "Title for the anchor tag"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:445
+#@ wpfixedverticalfeedbackbutton
+msgid "Link Target"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:607
+#, php-format
+#@ wpfixedverticalfeedbackbutton
+msgid "Sorry, you can not create more than one button in free verion, <a target=\"_blank\" href=\"%s\">Grab Pro</a>"
+msgstr ""
+
+#: includes/class-wpfixedverticalfeedbackbutton-activator.php:48
+#, php-format
+#@ wpfixedverticalfeedbackbutton
+msgid "Feedback Button Backup - %d"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: wpfixedverticalfeedbackbutton.php:0
+#@ wpfixedverticalfeedbackbutton
+msgid "Fixed vertical Feedback button with and popular Forms Integration customs Forms"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:304
+#@ wpfixedverticalfeedbackbutton
+msgid "Post/page Binding"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:308
+#@ wpfixedverticalfeedbackbutton
+msgid "Show only in following post(s)"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:311
+#@ wpfixedverticalfeedbackbutton
+msgid "Hide in following post(s)"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:315
+#@ wpfixedverticalfeedbackbutton
+msgid "Put the post, page IDs with comma"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:177
+#@ wpfixedverticalfeedbackbutton
+msgid "Upload Image"
+msgstr ""
+
+#: admin/class-wpfixedverticalfeedbackbutton-admin.php:631
+#@ wpfixedverticalfeedbackbutton
+msgid "Get Pro"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: wpfixedverticalfeedbackbutton.php:0
+#@ wpfixedverticalfeedbackbutton
+msgid "http://codeboxr.com/product/fixed-vertical-feedback-button-for-wordpress/"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: wpfixedverticalfeedbackbutton.php:0
+#@ wpfixedverticalfeedbackbutton
+msgid "Codeboxr"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: wpfixedverticalfeedbackbutton.php:0
+#@ wpfixedverticalfeedbackbutton
+msgid "http://codeboxr.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: wpfixedverticalfeedbackbutton.php:0
+#@ wpfixedverticalfeedbackbutton
+msgid "3.8.0"
+msgstr ""
+

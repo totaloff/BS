@@ -1,0 +1,20 @@
+#primary_page_layout .rwmb-image-select {
+    width: 55px;
+    height: 45px;
+    margin: 10px 9px 10px 10px;
+    border: 4px solid #d8d8d8;
+    border-radius: 0; 
+}
+
+#primary_page_layout .rwmb-image-select:hover,
+#primary_page_layout .rwmb-image-select.rwmb-active {
+    border-color: #04a4cc;
+}
+
+.vc_license-activation-notice {display: none;}
+
+#s2id_primary_page_widgets_area {width: 233px !important; margin: 0 0 8px 10px;}
+
+#primary_page_widgets_area_description {margin: 0 0 0 10px;}
+
+#primary-page-header-advanced-section {display: none;}
